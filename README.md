@@ -37,4 +37,4 @@
 
 ###
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=felipfr&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=nightowl&hide_border=true&order=2" height="160" width="250" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=felipfr&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=nightowl&hide_border=true&order=2" height="160" width="550" alt="languages graph"  />
