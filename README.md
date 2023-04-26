@@ -1,6 +1,5 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://i.ibb.co/F8q8QP8/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=felipfr.felipfr&left_color=black&right_color=red"  />
 <h1 align="left">Olá, me chamo Felipe</h1>
 
 ###
