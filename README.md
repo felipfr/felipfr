@@ -1,6 +1,7 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-<h1 align="left">Olá, me chamo Felipe</h1><img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=felipfr.felipfr&left_color=black&right_color=red"  />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=felipfr.felipfr&left_color=black&right_color=red"  />
+<h1 align="left">Olá, me chamo Felipe</h1>
 
 ###
 
