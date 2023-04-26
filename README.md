@@ -1,11 +1,24 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-# Olá! 
+<h1 align="left">Olá, me chamo Felipe</h1>
 
-<p align="left"> 
-   m
- 
-</p>
+###
+
+<p align="left">Apaixonado por tecnologia, atuo na área há mais de 13 anos. Minha experiência inclui desenvolvimento de software e serviços de suporte para automação comercial e bancária.</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+
+###
+
+<h2 align="left">🛠️ Stacks</h2>
+
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
@@ -29,9 +42,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" width="52" alt="jenkins logo"  />
 </div>
 
-	
+###
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipfr&theme=codeSTACKr&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
