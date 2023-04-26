@@ -4,8 +4,8 @@
 
 ###
 
-<p align="left">Apaixonado por tecnologia, atuo na área há mais de 13 anos. Minha experiência inclui desenvolvimento de software e serviços de suporte para automação comercial e bancária.</p>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=felipfr.felipfr&left_color=black&right_color=red"  />
+<p align="left">Apaixonado por tecnologia, atuo na área há mais de 13 anos. Minha experiência inclui desenvolvimento de software e serviços de suporte para automação comercial e bancária.</p>
 
 ###
 
