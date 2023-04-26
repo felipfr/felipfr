@@ -37,4 +37,4 @@
 
 ###
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipfr&theme=codeSTACKr&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=felipfr&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=nightowl&hide_border=true&order=2" height="160" alt="languages graph"  />
