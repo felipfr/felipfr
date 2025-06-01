@@ -7,7 +7,7 @@
 ###
 
 <p align="left">
-  A passionate technology professional with over 13 years of experience in software development. My drive for innovation and problem-solving has led me to work with cutting-edge technologies and deliver impactful solutions.
+Fullstack developer with 8+ years of development experience and 15+ years in a technology career, specialized in scalable and high-impact solutions. By aligning technology with business strategy, anticipating risks, and collaborating with teams, the focus remains on efficient deliveries and mitigating roadblocks. Focusing on simple, evolutionary architectures and proven practices in development, security, and innovation to build systems that excel today and evolve with tomorrow’s demands. Passionate about continuous learning and knowledge sharing, with a commitment to delivering real business value.
 </p>
 
 ###
